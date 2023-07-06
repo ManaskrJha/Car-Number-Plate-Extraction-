@@ -27,7 +27,7 @@ The script follows these steps:
 12. Save the final output image with the recognized number plate and text.
 
 ## Installation
-1. Clone the repository: `gh repo clone ManaskrJha/Car-Number-Plate-Extraction-`.
+1. Clone the repository: `[gh repo clone ManaskrJha/Car-Number-Plate-Extraction-](https://github.com/ManaskrJha/Car-Number-Plate-Extraction-.git)`.
 2. Install the required dependencies:
    - OpenCV: `pip install opencv-python`.
    - EasyOCR: `pip install easyocr`.
