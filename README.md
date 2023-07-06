@@ -3,6 +3,12 @@
 
 This script performs number plate recognition on an image using OpenCV and EasyOCR. It detects the number plate in the image, performs optical character recognition (OCR) on the plate, and displays the recognized text on the image.
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+
 ## Introduction
 Number plate recognition is a computer vision task that involves detecting and extracting number plates from images or videos and then recognizing the characters on the plates. This script utilizes OpenCV for number plate detection using a Haar cascade classifier and EasyOCR for text recognition.
 
